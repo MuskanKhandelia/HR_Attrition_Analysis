@@ -15,4 +15,4 @@ HR Attrition Analysis is a project that utilizes Tableau to analyze employee att
 
 ![In depth](https://github.com/MuskanKhandelia/HR_Attrition_Analysis/assets/65664089/aeee7942-5b47-4033-ab01-1923a1fa3f2e)
 
-https://public.tableau.com/shared/Z7D6KZ3SP?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/J8XZ7NXH5?:display_count=n&:origin=viz_share_link
